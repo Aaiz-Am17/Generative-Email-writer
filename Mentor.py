@@ -4,7 +4,7 @@ from tkinter import scrolledtext
 import google.generativeai as palm
 import os
 
-palm.configure(api_key="AIzaSyAn3jIMpAaeCWJFa5gudTgUj5GnqLVDkvU")
+palm.configure(api_key="Your API KEY")
 
 defaults = {
     'model': 'models/chat-bison-001',
