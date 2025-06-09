@@ -50,5 +50,6 @@ Feel free to use, modify, and share — but give credit where it’s due! ✨
 🙋‍♂️ Why I Built This
 As a student exploring Generative AI and real-world API integration, I built Mentor to solve a problem many face: writing clear, professional emails with limited English proficiency. This project serves as an intro-level demonstration of how language models can simplify daily communication tasks for everyone.
 
-🌐 Connect with Me
-📫 Aaiz-Am17 on GitHub
+🌐 [Connect with Me](www.linkedin.com/in/aaiz-mohsin)
+
+📫 [Aaiz-Am17 on GitHub](https://github.com/Aaiz-Am17) 
