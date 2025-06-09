@@ -53,4 +53,3 @@ As a student exploring Generative AI and real-world API integration, I built Men
 🌐 Connect with Me
 
 📫 [Aaiz-Am17 on GitHub](https://github.com/Aaiz-Am17) 
-🔗 [LinkedIn Profile](www.linkedin.com/in/aaiz-mohsin)
