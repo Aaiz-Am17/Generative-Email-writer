@@ -8,7 +8,7 @@ import os
 load_dotenv()
 
 # Configure PaLM API using API key from .env
-palm.configure(api_key=os.getenv("PALM_API_KEY"))
+palm.configure(api_key=os.getenv("API_KEY"))
 
 # Default configuration for the API
 defaults = {
