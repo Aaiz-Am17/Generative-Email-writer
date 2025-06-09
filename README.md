@@ -1,7 +1,5 @@
 # 🧠 Mentor: AI-Powered Email Writer
 
-# 🧠 Mentor: AI-Powered Email Writer
-
 **Mentor** is a beginner-friendly desktop app designed as an **introductory project** for exploring Generative AI and API integration. It uses Google's PaLM model to help users generate polished, professional emails from **minimal prompts** like:
 
 > `"say sorry"` → ✉️ A formal apology email  
