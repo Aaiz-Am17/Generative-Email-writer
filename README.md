@@ -29,3 +29,26 @@
 ```bash
 git clone https://github.com/Aaiz-Am17/Generative-Email-writer.git
 cd Generative-Email-writer
+```
+### 2.Install Requirements
+
+Make sure to install the required packages
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the app using:
+
+This will launch the desktop GUI. Enter a short phrase like "say sorry" and get a complete, professional email suggestion instantly.
+
+```bash
+python -m mentor.gui
+```
+📄 License
+This project is licensed under the MIT License.
+Feel free to use, modify, and share — but give credit where it’s due! ✨
+
+🙋‍♂️ Why I Built This
+As a student exploring Generative AI and real-world API integration, I built Mentor to solve a problem many face: writing clear, professional emails with limited English proficiency. This project serves as an intro-level demonstration of how language models can simplify daily communication tasks for everyone.
+
+🌐 Connect with Me
+📫 Aaiz-Am17 on GitHub
