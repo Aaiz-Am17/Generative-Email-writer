@@ -1,5 +1,13 @@
 # 🧠 Mentor: AI-Powered Email Writer
 
+[![GitHub stars](https://img.shields.io/github/stars/Aaiz-Am17/Generative-Email-writer?style=social)](https://github.com/Aaiz-Am17/Generative-Email-writer/stargazers)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Built%20with-Tkinter-FF69B4?logo=python)
+![Gemini API](https://img.shields.io/badge/Powered%20by-Google%20PaLM%20Chat%20API-yellow?logo=google)
+![NLP](https://img.shields.io/badge/Generative%20AI-Text%20Generation-blueviolet?logo=openai)
+
+
 **Mentor** is a beginner-friendly desktop app designed as an **introductory project** for exploring Generative AI and API integration. It uses Google's PaLM model to help users generate polished, professional emails from **minimal prompts** like:
 
 > `"say sorry"` → ✉️ A formal apology email  
